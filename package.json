@@ -1,0 +1,24 @@
+{
+  "name": "code-name-generator",
+  "version": "0.1.0",
+  "description": "code name generator using a Markov list generator based on a list of words",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TypingFrog/code-name-generator.git"
+  },
+  "keywords": [
+    "codename",
+    "markov",
+    "chain"
+  ],
+  "author": "pierre@typingfrog.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/TypingFrog/code-name-generator/issues"
+  },
+  "homepage": "https://github.com/TypingFrog/code-name-generator"
+}
